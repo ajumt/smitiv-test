@@ -1,0 +1,11 @@
+{
+    "dev": {
+      "driver": "mysql",
+      "host": "localhost",
+      "port": "13306",
+      "user": "root",
+      "password": "password",
+      "database": "smitiv_test_db"
+    },
+    "sql-file" : true
+  }
